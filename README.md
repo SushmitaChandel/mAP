@@ -13,6 +13,8 @@ Steps to use the package:
 4. RUN demo.py file.
 
 Note: x1,y1 are top left corners and x2,y2 are bottom right corners of the bounding box.
+
+Note: mAP.py file also contains the function to calculate detection rate and false alarm ate.
   
 
 
